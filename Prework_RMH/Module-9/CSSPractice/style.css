@@ -1,0 +1,54 @@
+.center-text {
+    text-align: center;
+}
+
+.text-red {
+    color: 	#FF0000;
+}
+
+.text-blue {
+    color: 	#0000FF;
+}
+
+.text-green {
+    color: #00FF00;
+}
+
+.text-large {
+    font-size: xx-large;
+}
+
+.text-size {
+    font-size: small;
+}
+
+.font-weight {
+    font-weight: bold;
+}
+
+.font-family {
+    font-family: -webkit-pictograph;
+}
+
+
+.id-1 {
+	font-size: xx-large;
+    color: orange;
+    font-weight: bold;
+}
+
+.styledFont {
+	color: green;
+    font-weight: bolder;
+}
+
+#styledImage {
+    border-color: orange;
+    border-width: thick;
+    border-style: solid;
+}
+
+body {
+    padding-left: 10px;
+}
+
